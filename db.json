@@ -76,6 +76,54 @@
 		   "Década de 90",
 		   "Década de 70"
         ]
+	  },
+	  {
+        "image": "https://www.rederpg.com.br/wp/wp-content/uploads/2017/12/Tomb-of-Annihilation-interna-864x467.jpg",
+        "title": "Quais destes mundos de D&d é o mais antigo?",
+        "description": "O mestre então disse 'Então seus pertences caíram na água!'",
+        "answer": 1,
+        "alternatives": [
+           "The Forgotten Realms",
+		   "Greyhawk",
+		   "Dragonlance",
+		   "Ravenloft"
+        ]
+	  },
+	  {
+        "image": "https://groovyhistory.com/content/110645/badd6f1afdb249e6e582ea2cd58a6e12.jpg",
+        "title": "Os criadores de D&d são...",
+        "description": "O mestre então disse 'Então seus pertences caíram na água!'",
+        "answer": 0,
+        "alternatives": [
+           "Gary Gygax e Dave Arneson",
+		   "Bill Gates e Michael Jackson",
+		   "Steve Jobs e Mark Zuckerberg",
+		   "Jeff Grubb e Ed Greenwood"
+        ]
+	  },
+	  {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Tsr_logo_lines.png",
+        "title": "Originalmente TSR quer dizer...",
+        "description": "Products of your imagination",
+        "answer": 0,
+        "alternatives": [
+           "Tatical Studies Rules",
+		   "Ten Special Rules",
+		   "Tactical Series Role-playing",
+		   "Tactical Series Rules"
+        ]
+	  },
+	  {
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51AJuhnt5VL.jpg",
+        "title": "Qual destes livros vinham no box original do D&d, o 'White box set'?.",
+        "description": "Rules for Fantistic Medieval Wargames",
+        "answer": 3,
+        "alternatives": [
+           "Dungeons and Devils",
+		   "The Outdoors",
+		   "Monsters and Wizards",
+		   "Men and Magic"
+        ]
       }
     ],
     "external": [
