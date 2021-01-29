@@ -5,25 +5,76 @@
     "description": "Teste seus conhecimentos sobre o RPG mais conhecido no mundo inteiro",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
-        "answer": 2,
+        "image": "https://i.giphy.com/media/8abAbOrQ9rvLG/200.gif",
+        "title": "Qual dessas classes não é uma classe conjuradora?",
+        "description": "'You shall not pass!'",
+        "answer": 1,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Druída",
+          "Guerreiro",
+          "Clérigo",
+		  "Paladino",
+		  "Bruxo"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://i.imgur.com/H4hddXc.gif",
+        "title": "Qual dessas não é uma perícia de Sabedoria?",
+        "description": "É só não tirar 1!",
+        "answer": 1,
+        "alternatives": [
+           "Intuição",
+		   "Arcanismo",
+		   "Sobrevivência",
+		   "Percepção"
+        ]
+	  },
+	  {
+        "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/176/858/c69.gif",
+        "title": "Qual dessas afirmações não se refere a um Paladino?",
+        "description": "Leal e bom",
+        "answer": 2,
+        "alternatives": [
+           "Costumam usar magias curativas",
+		   "São uma mistura de Clérigo e Guerreiro",
+		   "São completamente focados em magias",
+		   "Fazem um juramento a uma divindade"
+        ]
+	  },
+	  {
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/954089719277481868/75860A13B4BEEE416690F2282F00AEA89B26A091/",
+        "title": "Qual desses personagens provavelmente teria mais vida?",
+        "description": "Então Arceris disse 'Eu conjuro fireball!'",
+        "answer": 2,
+        "alternatives": [
+           "Um goblin clérigo",
+		   "Um tiefling feitiçeiro",
+		   "Um Anão Bárbaro",
+		   "Um humano guerreiro"
+        ]
+	  },
+	  {
+        "image": "https://i.pinimg.com/originals/eb/9a/b4/eb9ab43539c33a84167875b72819d008.gif",
+        "title": "Qual a principal diferença de um Mago para um Feiticeiro?",
+        "description": "O mestre então disse 'Então seus pertences caíram na água!'",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "O feiticeiro nasce com magia, o mago estuda magia",
+		   "O feiticeiro faz magia, o mago não",
+		   "O feiticeiro tem muito mais vida e é uma evolução do mago",
+		   "O mago faz magia. o feiticeiro não"
+        ]
+	  },
+	  {
+        "image": "https://i.imgur.com/We2Eu9g.gif",
+        "title": "Em que década surgiu o D&D?",
+        "description": "O mestre então disse 'Então seus pertences caíram na água!'",
+        "answer": 3,
+        "alternatives": [
+           "Década de 30",
+		   "Década de 60",
+		   "Década de 90",
+		   "Década de 70"
         ]
       }
     ],
