@@ -1,4 +1,4 @@
-import Head from 'next/Head';
+import Head from 'next/head';
 import { useRouter } from 'next/router'
 
 import db from '../db.json';
